@@ -1,0 +1,6 @@
+streamlit
+python-whois
+requests
+scikit-learn
+pandas
+numpy
